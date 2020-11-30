@@ -7,24 +7,31 @@ Analyze the data and create digestable visualizations and dashboards that helps 
 ## Results
 ### User Trips by Gender by Weekday
 Link to dashboard https://prod-useast-b.online.tableau.com/t/luisnewman/views/NYCbikechallenge/UserTripsbyGenderbyWeekday?:origin=card_share_link&:embed=n
+
 It can be seen that male subscribers are the main segment using CitiBikes
 ### Trips by Weekday per Hour
 Link to dashboard https://prod-useast-b.online.tableau.com/t/luisnewman/views/NYCbikechallenge/TripsbyWeekdayperHour?:origin=card_share_link&:embed=n
+
 Based on the hours it can be inferred that weekdays rides are most likely for commuting and weekends rides are most likely recreational
 ### Trips by Gender (Weekday per Hour)
 Link to dashboard https://prod-useast-b.online.tableau.com/t/luisnewman/views/NYCbikechallenge/TripsbyGenderWeekdayperHour?:origin=card_share_link&:embed=n
+
 Female and male users follow the same pattern; the bulk of the rides are for commutes
 ### Top Starting Stations
 Link to dashboard https://prod-useast-b.online.tableau.com/t/luisnewman/views/NYCbikechallenge/TopStartingStations?:origin=card_share_link&:embed=n
+
 Most popular starting stations are shown
 ### Top Ending Stations
 Link to dashboard https://prod-useast-b.online.tableau.com/t/luisnewman/views/NYCbikechallenge/TopEndingLocations?:origin=card_share_link&:embed=n
+
 Most popular ending stations are shown
 ### Checkout Times
 Link to dashboard https://prod-useast-b.online.tableau.com/t/luisnewman/views/NYCbikechallenge/CheckoutTimes?:origin=card_share_link&:embed=n
+
 The majority of the rides last between four and six minutes, which supports the idea of bikes being used for commuting
 ### Checkout Times by Gender
 Link to dashboard https://prod-useast-b.online.tableau.com/t/luisnewman/views/NYCbikechallenge/CheckoutTimesbyGender?:origin=card_share_link&:embed=n
+
 The pattern does not change depending on gender, most rides are between four and six minutes
 ## Summary
 Link to storyboard https://prod-useast-b.online.tableau.com/t/luisnewman/views/NYCbikechallenge/Story1?:origin=card_share_link&:embed=n
