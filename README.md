@@ -34,7 +34,7 @@ Link to dashboard https://prod-useast-b.online.tableau.com/t/luisnewman/views/NY
 
 The pattern does not change depending on gender, most rides are between four and six minutes
 ## Summary
-Link to storyboard https://prod-useast-b.online.tableau.com/t/luisnewman/views/NYCbikechallenge/Story1?:origin=card_share_link&:embed=n
+Link to storyboard https://public.tableau.com/shared/ZS8ZGPGXR?:display_count=y&:origin=viz_share_link
 Overall the service is used by commuters and a push for increasing female ridership can be made. Two visualizations that will bring more insights to the analyzis are:
 
 1. Breakdown users by gender and ages will help understand which user segment should be targeted for marketing campaigns
